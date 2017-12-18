@@ -1,0 +1,5 @@
+@import url("style1.css") only screen and (min-width: 992px);
+
+@import url("table.css") only screen and (min-width: 768px) and (max-width: 992px);
+
+@import url("mobile.css") only screen and (max-width: 768px);
